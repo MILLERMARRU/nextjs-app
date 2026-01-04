@@ -15,6 +15,22 @@
 
 ---
 
+## 📚 Documentación
+
+**[📖 Ver Documentación Completa](./docs/README.md)**
+
+| Sección | Descripción |
+|---------|-------------|
+| [🚀 Instalación](./docs/getting-started/installation.md) | Guía paso a paso para instalar el proyecto |
+| [🏗️ Arquitectura](./docs/architecture/overview.md) | Visión general de la arquitectura técnica |
+| [📦 Módulo Productos](./docs/modules/products.md) | Documentación del módulo de productos |
+| [🛒 Módulo Ventas](./docs/modules/sales.md) | Documentación del módulo de ventas |
+| [💵 Módulo Caja](./docs/modules/cash-register.md) | Documentación del módulo de caja |
+| [🎯 Modelos de Datos](./docs/api/data-models.md) | Estructuras de datos y tipos |
+| [📝 Changelog](./docs/CHANGELOG.md) | Historial de cambios del proyecto |
+
+---
+
 ## 📋 Product Requirements Document (PRD)
 
 ### 1. Visión General
